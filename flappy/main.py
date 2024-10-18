@@ -221,3 +221,4 @@ if __name__ == "__main__":
     while True:
         welcomeScreen() # Shows welcome screen to the user until he presses a button
         mainGame() # This is the main game function 
+
